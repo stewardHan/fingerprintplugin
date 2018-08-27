@@ -3,7 +3,8 @@ package fingerprint.jimhan.com.fingerprintplugin
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
-import fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.FingerprintUtil
+import fingerprinttest.jimhan.com.library.fingerprintplugin.*
+import fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.FingerprintUtil
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

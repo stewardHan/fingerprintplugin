@@ -1,10 +1,10 @@
-package fingerprint.jimhan.com.fingerprintplugin.fingerprintlib;
+package fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib;
 
 import android.content.Context;
 import android.content.Intent;
 
-import fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.core.FingerprintCore;
-import fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.log.FPLog;
+import fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.core.FingerprintCore;
+import fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.log.FPLog;
 
 /**
  * Created by popfisher on 2016/11/7.

@@ -1,8 +1,8 @@
 package fingerprint.jimhan.com.fingerprintplugin
 
 import android.app.Activity
-import fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.FingerprintUtil
-import fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.core.FingerprintCore
+import fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.FingerprintUtil
+import fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.core.FingerprintCore
 
 class FingerFacade(val activity: Activity, val successCallback: () -> Unit, val errorCallback: () -> Unit) {
     private val mResultListener = object : FingerprintCore.IFingerprintResultListener {

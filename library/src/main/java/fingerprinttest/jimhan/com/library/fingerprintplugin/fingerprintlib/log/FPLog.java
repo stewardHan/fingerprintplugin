@@ -1,10 +1,10 @@
-package fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.log;
+package fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.log;
 
 import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
 
-import fingerprint.jimhan.com.fingerprintplugin.BuildConfig;
+import fingerprinttest.jimhan.com.library.BuildConfig;
 
 
 /**

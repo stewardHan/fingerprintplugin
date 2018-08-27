@@ -1,4 +1,4 @@
-package fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.core;
+package fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.core;
 
 import android.annotation.TargetApi;
 import android.hardware.fingerprint.FingerprintManager;
@@ -21,7 +21,7 @@ import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 
-import fingerprint.jimhan.com.fingerprintplugin.fingerprintlib.log.FPLog;
+import fingerprinttest.jimhan.com.library.fingerprintplugin.fingerprintlib.log.FPLog;
 
 /**
  * Created by popfisher on 2016/11/7.
